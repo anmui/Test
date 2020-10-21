@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6612f77f-9188-41f0-9f90-164957060f98" name="Default Changelist" comment="test git connect">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9feb29fd-d5d9-4138-82b0-c92e868b367b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action-adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action-del.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action-edituser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adduser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edituser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1iwKEjo1Sa6woDA7fU0cyAmYKvK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="action-adduser.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test/action-adduser.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="adduser.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test/adduser.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test/test.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.test.php" />
+        <item itemvalue="JavaScript Debug.adduser.html" />
+        <item itemvalue="JavaScript Debug.action-adduser.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6612f77f-9188-41f0-9f90-164957060f98" name="Default Changelist" comment="" />
+      <created>1602813104251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602813104251</updated>
+      <workItem from="1602813105632" duration="1668000" />
+      <workItem from="1602814904452" duration="2449000" />
+      <workItem from="1603079101675" duration="21281000" />
+      <workItem from="1603275789359" duration="5451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test git connect" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git connect" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="99" key="#CLI_Interpreters" timestamp="1603112909899">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="308" y="99" key="#CLI_Interpreters/0.23.1440.826@0.23.1440.826" timestamp="1603112909899" />
+    <state x="410" y="26" key="#PHP" timestamp="1603114180812">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="410" y="26" key="#PHP/0.23.1440.826@0.23.1440.826" timestamp="1603114180812" />
+    <state x="410" y="26" key="#PHP/0.23.1440.827@0.23.1440.827" timestamp="1602813297038" />
+    <state x="455" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603183670618">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="455" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603183670618" />
+    <state x="455" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1603103727770" />
+    <state x="455" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1603112394658" />
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1602814552121" />
+    <state x="484" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603275803326">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="484" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825@0.23.1440.825" timestamp="1603275803326" />
+    <state x="307" y="33" key="CommitChangelistDialog2" timestamp="1603286185533">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="307" y="33" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1603286185533" />
+    <state x="211" y="86" key="DiffContextDialog" timestamp="1603286043549">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="211" y="86" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1603286043549" />
+    <state x="657" y="332" width="259" height="265" key="Github.ShareDialog" timestamp="1603285153689">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="657" y="332" width="259" height="265" key="Github.ShareDialog/0.23.1440.827@0.23.1440.827" timestamp="1603285153689" />
+    <state x="562" y="142" key="Github.UntrackedFilesDialog" timestamp="1603284723278">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="562" y="142" key="Github.UntrackedFilesDialog/0.23.1440.827@0.23.1440.827" timestamp="1603284723278" />
+    <state width="699" height="161" key="GridCell.Tab.0.bottom" timestamp="1603275631119">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="699" height="161" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603183680858" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1602825870011" />
+    <state width="699" height="161" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1603275631119" />
+    <state width="398" height="299" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1603185903083" />
+    <state width="398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1603177591698" />
+    <state width="699" height="161" key="GridCell.Tab.0.center" timestamp="1603275631118">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="699" height="161" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603183680844" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1602825870009" />
+    <state width="699" height="161" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1603275631118" />
+    <state width="398" height="299" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1603185903082" />
+    <state width="398" height="245" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1603177591697" />
+    <state width="699" height="161" key="GridCell.Tab.0.left" timestamp="1603275631117">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="699" height="161" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603183680839" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1602825870009" />
+    <state width="699" height="161" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1603275631117" />
+    <state width="398" height="299" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1603185903081" />
+    <state width="398" height="245" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1603177591696" />
+    <state width="699" height="161" key="GridCell.Tab.0.right" timestamp="1603275631119">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="699" height="161" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603183680846" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1602825870010" />
+    <state width="699" height="161" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1603275631119" />
+    <state width="398" height="299" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1603185903083" />
+    <state width="398" height="245" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1603177591698" />
+    <state width="219" height="546" key="HiddenNamespacesPopup" timestamp="1603124065150">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="219" height="546" key="HiddenNamespacesPopup/0.0.1440.900@0.0.1440.900" timestamp="1603124065150" />
+    <state width="219" height="498" key="HiddenNamespacesPopup/0.23.1440.822@0.23.1440.822" timestamp="1603098582322" />
+    <state x="289" y="303" key="NewPhpClassDialog" timestamp="1603181454938">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="289" y="303" key="NewPhpClassDialog/0.23.1440.827@0.23.1440.827" timestamp="1603181454938" />
+    <state x="621" y="417" key="NewPhpFileDialog" timestamp="1603181469906">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="544" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1603174251426" />
+    <state x="544" y="369" key="NewPhpFileDialog/0.23.1440.825@0.23.1440.825" timestamp="1602813123353" />
+    <state x="544" y="369" key="NewPhpFileDialog/0.23.1440.826@0.23.1440.826" timestamp="1603121031262" />
+    <state x="621" y="417" key="NewPhpFileDialog/0.23.1440.827@0.23.1440.827" timestamp="1603181469906" />
+    <state x="450" y="145" key="RollbackChangesDialog" timestamp="1603286046201">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="450" y="145" key="RollbackChangesDialog/0.23.1440.827@0.23.1440.827" timestamp="1603286046201" />
+    <state x="376" y="128" key="SettingsEditor" timestamp="1603284477700">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="229" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1603275621062" />
+    <state x="229" y="74" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1603113876791" />
+    <state x="376" y="128" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1603284477700" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1603185225991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1603185225991" />
+    <state x="386" y="169" key="Vcs.Push.Dialog.v2" timestamp="1603285051773">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="386" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1603285051773" />
+    <state x="390" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1602814915061">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="390" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1602814915061" />
+    <state x="591" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603284849486">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="591" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.827@0.23.1440.827" timestamp="1603284849486" />
+  </component>
+</project>
