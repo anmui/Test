@@ -1,1 +1,0 @@
-<?php    require "test.php";    $id=$_GET['id'];    $sql="Delete from test1 where id=".$id;    $con->DeleteTable($sql);    header("Location:index.php");?>

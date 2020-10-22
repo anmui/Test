@@ -1,1 +1,0 @@
-<?php    require "test.php";    $con=new Mysql();    $sql="update test1 set name=\"".$_POST["name"]."\" where id=".$_POST["id"];    //echo $sql;    $con->UpdateTable($sql);    header("Location:index.php");?>
